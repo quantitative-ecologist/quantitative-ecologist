@@ -1,6 +1,6 @@
 ## 👋 Hello, my name is Maxime (he/him)
 
-💻 I’m a PhD candidate in computational ecology at UQAM. My research focuses on modeling predator-prey interactions 🐃 :arrows_counterclockwise: :tiger2:. You'll find my work archived here under different repositories.
+💻 I’m a PhD candidate in computational ecology at UQAM, and a member of the [Quebec Center for Biodiversity Science](https://qcbs.ca/). My research focuses on modeling predator-prey interactions 🐃 :arrows_counterclockwise: :tiger2:. You'll find my work archived here under different repositories.
 
 Here is some of the work I do :
 - ⚡ I develop online teaching material in the fields of biostatistics and computational ecology
