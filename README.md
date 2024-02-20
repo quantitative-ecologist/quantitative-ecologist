@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Maxime (he/him)
+# 👋 Hello all, I'm Maxime (he/him)
 
 ## About me
 
