@@ -7,7 +7,7 @@
 ## My work
 
 **Portfolio :**  
-- You'll find the content (documents, data, code) of my projects archived in GitHub repositories
+- You'll find the content (documents, data, code) of my projects archived in [GitHub repositories](https://github.com/quantitative-ecologist?tab=repositories)
 - You can find my scientific publications [here](https://www.researchgate.net/profile/Maxime-Fraser-Franco)
 
 **Here is some of the work I do :**
