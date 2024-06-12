@@ -2,7 +2,9 @@
 
 ## About me
 
-💻 I’m a PhD candidate in computational ecology at UQAM, member of the [Quebec Center for Biodiversity Science](https://qcbs.ca/) as well as the [Quebec Society for the Biological Study of Behaviour](https://www.sqebc.org/). My research focuses on modeling predator-prey interactions 🐃 :arrows_counterclockwise: :tiger2:.
+I am a Data scientist at [Nectar Technologies](https://www.nectar.buzz/).
+
+💻 I’m also a PhD candidate in computational ecology at UQAM, member of the [Quebec Center for Biodiversity Science](https://qcbs.ca/) as well as the [Quebec Society for the Biological Study of Behaviour](https://www.sqebc.org/). My research focuses on modeling predator-prey interactions 🐃 :arrows_counterclockwise: :tiger2:.
 
 ## My work
 
