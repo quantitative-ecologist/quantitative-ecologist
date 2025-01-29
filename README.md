@@ -9,13 +9,13 @@ I am a Data scientist at [Nectar Technologies](https://www.nectar.buzz/).
 ## My work
 
 **Portfolio :**  
-- You'll find the content (documents, data, code) of my projects archived in [GitHub repositories](https://github.com/quantitative-ecologist?tab=repositories)
-- You can find my scientific publications on [ResearchGate](https://www.researchgate.net/profile/Maxime-Fraser-Franco)
+- 💻 You'll find the content (documents, data, code) of my projects archived in [GitHub repositories](https://github.com/quantitative-ecologist?tab=repositories)
+- 📖 You can find my scientific publications on [ResearchGate](https://www.researchgate.net/profile/Maxime-Fraser-Franco)
 
 **Here is some of the work I do :**
-- ⚡ I develop online teaching material in the fields of biostatistics and data science
+- ⚡ I help beekeepers optimize their practices using data and scientific reasoning
 - ⚡ I use statistical, probabilistic, and machine learning models to answer biological questions
-- ⚡ I do consultant work in the analysis of biological and videogame data
+- ⚡ I develop online teaching material in the fields of biostatistics and data science
 
 💬 I am available to give workshops, training sessions, and for consulting.
 
