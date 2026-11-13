@@ -4,7 +4,7 @@
 
 I am a Data scientist at [Nectar Technologies](https://www.nectar.buzz/).
 
-💻 I’m also a PhD candidate in computational ecology at UQAM, member of the [Quebec Center for Biodiversity Science](https://qcbs.ca/) as well as the [Quebec Society for the Biological Study of Behaviour](https://www.sqebc.org/). My research focuses on modeling predator-prey interactions 🐃 :arrows_counterclockwise: :tiger2:.
+💻 During my PhD in computational ecology at UQAM, I conducted research on predator-prey interactions using behavioural data from videogames as my study system 🐃 :arrows_counterclockwise: :tiger2:.
 
 ## My work
 
@@ -12,14 +12,14 @@ I am a Data scientist at [Nectar Technologies](https://www.nectar.buzz/).
 - 💻 You'll find the content (documents, data, code) of my projects archived in [GitHub repositories](https://github.com/quantitative-ecologist?tab=repositories)
 - 📖 You can find my scientific publications on [ResearchGate](https://www.researchgate.net/profile/Maxime-Fraser-Franco)
 
-**Here is some of the work I do :**
+**My day-to-day work :**
 - ⚡ I help beekeepers optimize their practices using data and scientific reasoning
 - ⚡ I use statistical, probabilistic, and machine learning models to answer biological questions
-- ⚡ I develop online teaching material in the fields of biostatistics and data science
+- ⚡ I publish my findings with my colleagues
 
 💬 I am available to give workshops, training sessions, and for consulting.
 
-✉️ You can contact me at `lastname1_lastname2.firstname@courrier.uqam.ca`. 
+✉️ You can contact me at `firstname@nectar.buzz`. 
 
 ## Software and tools
 
